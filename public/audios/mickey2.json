@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "soundFile": "/Users/lipeichen/Downloads/mickey2.ogg",
+    "duration": 5.06
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "X" },
+    { "start": 0.03, "end": 0.15, "value": "C" },
+    { "start": 0.15, "end": 0.22, "value": "B" },
+    { "start": 0.22, "end": 0.29, "value": "C" },
+    { "start": 0.29, "end": 0.50, "value": "D" },
+    { "start": 0.50, "end": 0.64, "value": "H" },
+    { "start": 0.64, "end": 1.09, "value": "X" },
+    { "start": 1.09, "end": 1.40, "value": "B" },
+    { "start": 1.40, "end": 1.47, "value": "E" },
+    { "start": 1.47, "end": 1.54, "value": "F" },
+    { "start": 1.54, "end": 1.68, "value": "B" },
+    { "start": 1.68, "end": 1.75, "value": "D" },
+    { "start": 1.75, "end": 1.89, "value": "B" },
+    { "start": 1.89, "end": 2.10, "value": "C" },
+    { "start": 2.10, "end": 2.24, "value": "H" },
+    { "start": 2.24, "end": 2.60, "value": "X" },
+    { "start": 2.60, "end": 2.66, "value": "F" },
+    { "start": 2.66, "end": 2.79, "value": "E" },
+    { "start": 2.79, "end": 3.07, "value": "B" },
+    { "start": 3.07, "end": 3.14, "value": "C" },
+    { "start": 3.14, "end": 3.22, "value": "A" },
+    { "start": 3.22, "end": 3.34, "value": "B" },
+    { "start": 3.34, "end": 3.55, "value": "C" },
+    { "start": 3.55, "end": 3.62, "value": "B" },
+    { "start": 3.62, "end": 3.98, "value": "X" },
+    { "start": 3.98, "end": 4.05, "value": "F" },
+    { "start": 4.05, "end": 4.67, "value": "B" },
+    { "start": 4.67, "end": 5.06, "value": "X" }
+  ]
+}

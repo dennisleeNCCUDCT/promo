@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "soundFile": "/Users/lipeichen/Downloads/house.ogg",
+    "duration": 4.79
+  },
+  "mouthCues": [
+    { "start": 0.0, "end": 0.03, "value": "X" },
+    { "start": 0.03, "end": 0.13, "value": "C" },
+    { "start": 0.13, "end": 0.2, "value": "E" },
+    { "start": 0.2, "end": 0.34, "value": "F" },
+    { "start": 0.34, "end": 0.41, "value": "B" },
+    { "start": 0.41, "end": 0.55, "value": "D" },
+    { "start": 0.55, "end": 0.93, "value": "B" },
+    { "start": 0.93, "end": 1.0, "value": "F" },
+    { "start": 1.0, "end": 1.14, "value": "B" },
+    { "start": 1.14, "end": 1.21, "value": "C" },
+    { "start": 1.21, "end": 1.29, "value": "A" },
+    { "start": 1.29, "end": 1.34, "value": "B" },
+    { "start": 1.34, "end": 1.38, "value": "C" },
+    { "start": 1.38, "end": 1.45, "value": "E" },
+    { "start": 1.45, "end": 1.56, "value": "A" },
+    { "start": 1.56, "end": 1.61, "value": "B" },
+    { "start": 1.61, "end": 1.66, "value": "C" },
+    { "start": 1.66, "end": 1.8, "value": "E" },
+    { "start": 1.8, "end": 2.08, "value": "H" },
+    { "start": 2.08, "end": 2.43, "value": "B" },
+    { "start": 2.43, "end": 2.5, "value": "C" },
+    { "start": 2.5, "end": 2.71, "value": "B" },
+    { "start": 2.71, "end": 2.92, "value": "C" },
+    { "start": 2.92, "end": 3.06, "value": "E" },
+    { "start": 3.06, "end": 3.55, "value": "X" },
+    { "start": 3.55, "end": 3.71, "value": "C" },
+    { "start": 3.71, "end": 3.78, "value": "B" },
+    { "start": 3.78, "end": 3.99, "value": "C" },
+    { "start": 3.99, "end": 4.2, "value": "E" },
+    { "start": 4.2, "end": 4.41, "value": "B" },
+    { "start": 4.41, "end": 4.79, "value": "X" }
+  ]
+}
